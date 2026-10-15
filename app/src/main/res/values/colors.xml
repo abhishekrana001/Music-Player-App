@@ -7,9 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="dark_background">#FF1A1A1A</color>
-    <color name="card_background">#FF2A2A2A</color>
-    <color name="accent_color">#FF00BCD4</color>
-    <color name="text_primary">#FFFFFF</color>
-    <color name="text_secondary">#CCCCCC</color>
+
+    <!-- Modern Dark Theme Palette -->
+    <color name="dark_background">#0F172A</color>
+    <color name="card_background">#1E293B</color>
+    <color name="card_stroke">#334155</color>
+    <color name="accent_color">#6366F1</color>
+    <color name="accent_gradient_start">#8B5CF6</color>
+    <color name="accent_gradient_end">#06B6D4</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="icon_tint_inactive">#64748B</color>
+    <color name="icon_tint_active">#818CF8</color>
+    <color name="search_bg">#1E293B</color>
 </resources>
